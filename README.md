@@ -15,3 +15,6 @@ Funkcje programu to:
 -możliwość zmienienia poziomu głoścności (domyślnie jest 100%)
 
 -możliwość pauzy, wlączenia następnej bądź poprzedniej piosenki podstawowymi przyciskami
+
+
+Domyślnie do aplikacji dodane są dwa utwory.
