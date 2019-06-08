@@ -16,5 +16,8 @@ Funkcje programu to:
 
 -możliwość pauzy, wlączenia następnej bądź poprzedniej piosenki podstawowymi przyciskami
 
+/
+/
+/
 
 Domyślnie do aplikacji dodane są dwa utwory.
